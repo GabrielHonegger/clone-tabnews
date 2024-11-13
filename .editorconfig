@@ -1,0 +1,5 @@
+root = true # this is the root .editorconfig file, so there's no files of this kind above this directory
+
+[*] # this rules should be applied to all kinds of files (.js, .html, etc..)
+indent_style = space # the indentation will be space, not tab
+indent_size = 2 # the indentation will be 2 spaces
